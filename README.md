@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering graduate (July 2025)<br>- 💻 Frontend Developer passionate about building modern and user-friendly interfaces<br>- 🚀 Open to new job opportunities and professional challenges<br>- 📚 Constantly seeking new knowledge and technologies to grow as a developer<br>- 🤝 Eager to collaborate on projects, contribute to teams, and create impactful solutions<br>
+-🎓 Computer Engineering graduate (July 2025)<br>- 💻 Frontend Developer passionate about building modern and user-friendly interfaces<br>- 🚀 Open to new job opportunities and professional challenges<br>- 📚 Constantly seeking new knowledge and technologies to grow as a developer<br>- 🤝 Eager to collaborate on projects, contribute to teams, and create impactful solutions<br>
 
 
 ## 🌐 Socials:
